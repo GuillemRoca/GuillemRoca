@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##About me
+## About me
 
 ```kotlin
 val GuillemRoca = human {
