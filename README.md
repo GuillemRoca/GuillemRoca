@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+```kotlin
+val GuillemRoca = human {
+    about {
+        name = "Guillem Roca"
+        company = "Wallapop"
+        role = "Software Engineer - Android"
+    }
+
+    tech("Kotlin", "Android", "Gradle", "KMP", "Compose")
+
+    links {
+        website = "guillem.dev"
+    }
+}
+```
+
 <!--
 **GuillemRoca/GuillemRoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
