@@ -1,4 +1,4 @@
-## Hi there 👋 Glad you are here. About me
+## Hi there 👋 About me
 
 ```kotlin
 val GuillemRoca = human {
